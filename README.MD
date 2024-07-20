@@ -22,23 +22,16 @@
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover a autoridade técnica.
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
-
-Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
-
-<a href="https://web.dio.me/articles/diretivas-estruturais-versus-diretivas-de-atributo-qual-usar-no-angular?back=%2Farticles&page=1&order=oldest#state=044ab194-1e3a-4b8e-95fe-c0f6b3b5260e&session_state=efdc9591-d6fe-4d79-ae97-e58af45061da&code=5ac231e4-c722-46c3-bb7f-32ce5363fb78.efdc9591-d6fe-4d79-ae97-e58af45061da.a889d5a2-0d02-46df-83a5-28a1b4ac39ab" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/como-o-blockchain-esta-revolucionando-a-medicina-e-ideias-de-projetos?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Lexica.art](https://lexica.art/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [Canva](https://www.canva.com/) - para obter imagens
+- [Inkscape] - Para formatação de banners e Layouts
 
 ## 📄 Prompts e ferramentas
 
@@ -47,15 +40,28 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Liste 5 sugestões de títulos para o artigo que acabamos de escrever                                                                                                                                                                                                    |
+| conteúdo | eu quero que a partir de agora você seja um Arquiteto de Blockchain senior que fará um artigo para o linkedin: {REGRAS} use uma linguagem voltada para adolescentes, gamers ou jovens desenvolvedores;  o que é Blockchain?; em quais areas o Blockchain é utilizado? cite exemplos comuns e incomuns da utilizaçao dele; como o Blockchain pode nos ajudar na área de medicina e na de biotecnologia?; dê 6 sugestões totalmente diferenciadas e revolucionárias de ideias de projetos de mestrado nas áreas de medicina e na de biotecnologia. Descreva como seria a sua estratégia de desenvolvimento. As sugestões precisam ser altamente relevantes para a sociedade; cada paragrafo deve ter no máximo 5 linhas; faça um call to action para as minhas redes sociais; coloque tres hashtags que façam sentido |
 
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No léxica fiz uma busca sobre o termos como:
 
-• Angular
+• Blockchain
+• Technology
+• Medical elements
+
+Canva：
+
+- No canva pesquisei elementos visuais com as palavras-chave:
+
+• Blockchain
+• Biotechnology
+• Technology
+• Medical elements
+• Medicine
+
 
 
 
@@ -63,6 +69,7 @@ Lexica.art：
 
 - Conteúdo gerado via ChatGPT
 - Imagens do acervo público geradas via Lexica.art
+- Imagens obtidas através do canva
 
 ## 📚 Materiais
 
@@ -79,17 +86,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/7563167?s=400&u=18d3a8510f96dd9586a6b0b74b43dee3c004368d&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAline de O. Machado<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/alinemach">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+    <a href="www.linkedin.com/in/alinemach">LinkedIn</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -97,4 +100,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Feito com carinho por [Aline de O. Machado](https://github.com/alinemach)
